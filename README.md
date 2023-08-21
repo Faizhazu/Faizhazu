@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm B.Mohamed Faiz Ali</h1>
 <h3 align="center">Data analyst python developer</h3>
 
+![image](https://github.com/Faizhazu/Faizhazu/assets/136839470/b6d1d9ac-72e4-47e2-bd8f-e81269db76e1)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizhazu&label=Profile%20views&color=0e75b6&style=flat" alt="faizhazu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faizhazu" alt="faizhazu" /></a> </p>
